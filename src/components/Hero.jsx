@@ -16,7 +16,7 @@ const Hero = () => {
         <section className="hero">
             <div className="hero-container">
                 <div className="hero-content">
-                    <div className="greeting">Hello, I'm</div>
+                    <div className="greeting"><br></br>Hello, I'm</div>
                     <div className="name-container">
                         <h1 className="name">Shayan Ali</h1>
                     </div>
@@ -53,7 +53,7 @@ const Hero = () => {
                     <div className="hero-image-container">
                         <div className="image-backdrop"></div>
                         <div className="profile-image-wrapper">
-                            <img src="/assets/shayan.png" className="profile-image" alt="Shayan Ali" />
+                            <img src="./assets/shayan.png" className="profile-image" alt="Shayan Ali" />
                         </div>
                     </div>
                 </div>

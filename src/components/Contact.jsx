@@ -34,7 +34,7 @@ const Contact = () => {
                         <span>WhatsApp: +92 3330003525</span>
                         <span>Phone: +92 3330003525</span>
                     </div>
-                    <a href="/assets/shayancv.jpg" download="shayancv.jpg" className="cv-button" aria-label="Download CV">
+                    <a href="./assets/shayancv.jpg" download="shayancv.jpg" className="cv-button" aria-label="Download CV">
                         <i className="fas fa-download"></i>
                         <span>Download CV</span>
                     </a>
