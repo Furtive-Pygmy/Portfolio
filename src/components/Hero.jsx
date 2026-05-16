@@ -39,11 +39,11 @@ const Hero = () => {
                         </div>
                     </div>
                     <div className="hero-cta">
-                        <a href="#projects" className="primary-btn">
+                        <a href="https://github.com/Furtive-Pygmy" className="primary-btn">
                             <i className="fas fa-code"></i>
                             <span>View Projects</span>
                         </a>
-                        <a href="#contact" className="secondary-btn">
+                        <a href="mailto:shayandp75@gmail.com" className="secondary-btn">
                             <i className="fas fa-envelope"></i>
                             <span>Let's Collaborate</span>
                         </a>
